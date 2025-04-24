@@ -149,3 +149,4 @@ nano bike-shop.sh
 ./bike-shop.sh
 echo ' M e '
 echo "$(echo ' M e ')."
+echo "$(echo ' M e ' | sed 's/ //')."
