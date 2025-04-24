@@ -70,3 +70,4 @@ chmod +x bike-shop.sh
 __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 nano bike-shop.sh
+./bike-shop.sh
