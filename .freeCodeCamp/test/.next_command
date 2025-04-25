@@ -164,3 +164,4 @@ echo "$(echo ' M e ' | sed -E 's/^ *| *$//g')."
 $(echo $CUSTOMER_NAME | sed -r 's/^ *| *$//g')
 __vsc_prompt_cmd_original
 nano bike-shop.sh
+./bike-shop.sh
